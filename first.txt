@@ -4,3 +4,5 @@ git練習用のファイル
 追加編集、add commit
 rm 練習
 git Status
+
+git diff
